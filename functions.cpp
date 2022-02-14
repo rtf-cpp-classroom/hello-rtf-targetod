@@ -5,5 +5,5 @@
 
 std::string printHello() 
 {
-	return "hello  rtf";
+	return "hello RTF";
 }
